@@ -1,11 +1,11 @@
 <div align="center">
    
-![agriConnect](https://github.com/user-attachments/assets/a7535a3d-f540-4fcc-9c18-46e0b080b6ca)
+!Agri-Culture](https://github.com/user-attachments/assets/a7535a3d-f540-4fcc-9c18-46e0b080b6ca)
 </div>
 
-# 🌱 Agriconnect
+# 🌱 Agri-Culture
 
-Agriconnect is a modern, full-stack web application designed to streamline agricultural services for farmers and merchants. It provides dedicated **Farmer Login** and **Merchant Login** pages with features tailored for their needs.
+Agri-Culture is a modern, full-stack web application designed to streamline agricultural services for farmers and merchants. It provides dedicated **Farmer Login** and **Merchant Login** pages with features tailored for their needs.
 
 ---
 
@@ -24,7 +24,7 @@ Agriconnect is a modern, full-stack web application designed to streamline agric
 
 1. Clone this repository:
    ```
-   git clone https://github.com/Gyanthakur/AgriConnect.git
+   git clone https://github.com/Gyanthakur/Agri-Culture.git
    ```
 
 
@@ -95,5 +95,5 @@ Contact Us:  📲<a href="https://wa.me/918957818597?text=Hey%20%F0%9F%91%8B%2C%
     <img src="https://img.shields.io/badge/WhatsApp-Click%20Me-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
   </a>
 
-GitHub Repository: [Agriconnect](https://github.com/Gyanthakur/AgriConnect.git)
+GitHub Repository: [Agri-Culture](https://github.com/Gyanthakur/Agri-Culture.git)
 
